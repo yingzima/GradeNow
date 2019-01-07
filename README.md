@@ -1,6 +1,6 @@
 # GradeNow
 
-GradeNow is a participation grading application that makes the grading process easy and fun for professors. It is developed on the Mendix platform.
+GradeNow is a participation grading application that aims to make grading process easy and fun for professors. It is developed on the Mendix platform.
 
 It has features such as: 
   - Image bulk upload
